@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Prectice Firebase Auth </string>
+<string name="facebook_app_id">1042773819934966</string>
+<string name="fb_login_protocol_scheme">fb1042773819934966</string>
+<string name="facebook_client_token">e75a110afda8486bffa7a3a1f57890b3</string>
+
+
+</resources>
